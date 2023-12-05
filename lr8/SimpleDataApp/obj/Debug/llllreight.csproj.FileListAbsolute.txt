@@ -1,0 +1,13 @@
+C:\Users\jenya\Desktop\lr8-main\SimpleDataApp\SimpleDataApp\obj\Debug\llllreight.csproj.AssemblyReference.cache
+C:\Users\jenya\Desktop\lr8-main\SimpleDataApp\SimpleDataApp\obj\Debug\llllreight.csproj.SuggestedBindingRedirects.cache
+C:\Users\jenya\Desktop\lr8-main\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.FillOrCancel.resources
+C:\Users\jenya\Desktop\lr8-main\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.Навигация.resources
+C:\Users\jenya\Desktop\lr8-main\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.NewCustomer.resources
+C:\Users\jenya\Desktop\lr8-main\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.Properties.Resources.resources
+C:\Users\jenya\Desktop\lr8-main\SimpleDataApp\SimpleDataApp\obj\Debug\llllreight.csproj.GenerateResource.cache
+C:\Users\jenya\Desktop\lr8-main\SimpleDataApp\SimpleDataApp\obj\Debug\llllreight.csproj.CoreCompileInputs.cache
+C:\Users\jenya\Desktop\lr8-main\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.exe
+C:\Users\jenya\Desktop\lr8-main\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.pdb
+C:\Users\jenya\Desktop\lr8-main\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.exe.config
+C:\Users\jenya\Desktop\lr8-main\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.exe
+C:\Users\jenya\Desktop\lr8-main\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.pdb
